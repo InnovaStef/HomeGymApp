@@ -13,12 +13,12 @@ namespace GymEnCasa.App.Persistencia
         /* Ya no se necesita porque el servicio web se encarga de hacer la conexión a la base de datos
         
         private readonly AppContext _appContext;
-        
+        */
         public  RepositorioUsuario (AppContext appContext)
         {
             this._appContext=appContext;
         }
-        */
+        
 
         //Crea o adiciona Usuario en la base de datos
         public  Usuario CrearUsuario (Usuario usuario)

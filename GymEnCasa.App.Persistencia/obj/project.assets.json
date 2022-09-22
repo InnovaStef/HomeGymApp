@@ -7266,33 +7266,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ljcor\\.nuget\\packages\\": {}
+    "C:\\Users\\Stefanny\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\Stefanny\\Downloads\\Gym\\RepoGimnasio\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
       "projectName": "GymEnCasa.App.Persistencia",
-      "projectPath": "D:\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
-      "packagesPath": "C:\\Users\\ljcor\\.nuget\\packages\\",
-      "outputPath": "D:\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\obj\\",
+      "projectPath": "C:\\Users\\Stefanny\\Downloads\\Gym\\RepoGimnasio\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
+      "packagesPath": "C:\\Users\\Stefanny\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Stefanny\\Downloads\\Gym\\RepoGimnasio\\GymEnCasa.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ljcor\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Stefanny\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "D:\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
-              "projectPath": "D:\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj"
+            "C:\\Users\\Stefanny\\Downloads\\Gym\\RepoGimnasio\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Stefanny\\Downloads\\Gym\\RepoGimnasio\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj"
             }
           }
         }
