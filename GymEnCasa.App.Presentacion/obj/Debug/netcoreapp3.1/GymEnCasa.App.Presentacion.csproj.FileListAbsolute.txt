@@ -296,7 +296,6 @@ D:\ProyectInnovaSoft\gymencasa.app.presentacion\obj\Debug\netcoreapp3.1\Razor\Ar
 D:\ProyectInnovaSoft\gymencasa.app.presentacion\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 D:\ProyectInnovaSoft\gymencasa.app.presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
 <<<<<<< HEAD
-<<<<<<< HEAD
 C:\Users\Stefanny\Downloads\Gym\RepoGimnasio\GymEnCasa.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Stefanny\Downloads\Gym\RepoGimnasio\GymEnCasa.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Stefanny\Downloads\Gym\RepoGimnasio\GymEnCasa.App.Presentacion\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -659,7 +658,6 @@ D:\ProyectInnovaSoft\RepoGimnasio\gymencasa.app.presentacion\obj\Debug\netcoreap
 D:\ProyectInnovaSoft\RepoGimnasio\gymencasa.app.presentacion\obj\Debug\netcoreapp3.1\GymEnCasa.App.Presentacion.pdb
 D:\ProyectInnovaSoft\RepoGimnasio\gymencasa.app.presentacion\obj\Debug\netcoreapp3.1\GymEnCasa.App.Presentacion.genruntimeconfig.cache
 >>>>>>> b79a18d0068a27644ab31b075475a7c8dd926d63
-=======
 C:\Personal\MinTic\HomeFitV2\RepoGimnasio\GymEnCasa.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Personal\MinTic\HomeFitV2\RepoGimnasio\GymEnCasa.App.Presentacion\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Personal\MinTic\HomeFitV2\RepoGimnasio\GymEnCasa.App.Presentacion\bin\Debug\netcoreapp3.1\Properties\launchSettings.json

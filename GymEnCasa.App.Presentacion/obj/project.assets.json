@@ -10516,11 +10516,7 @@
       "code": "Undefined",
       "level": "Warning",
       "warningLevel": 1,
-<<<<<<< HEAD
-      "message": "Problem reading the cache file C:\\Users\\Stefanny\\Downloads\\Gym\\repogimnasio\\GymEnCasa.App.Presentacion\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-=======
-      "message": "Problema al leer el archivo de caché C:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Presentacion\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
->>>>>>> b79a18d0068a27644ab31b075475a7c8dd926d63
+      "message": "Problem reading the cache file C:\\Users\\Stefanny\\Downloads\\Gym\\repogimnasio\\GymEnCasa.App.Presentacion\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'logs[0].warningLevel', line 227, position 0."
     }
   ]
 }

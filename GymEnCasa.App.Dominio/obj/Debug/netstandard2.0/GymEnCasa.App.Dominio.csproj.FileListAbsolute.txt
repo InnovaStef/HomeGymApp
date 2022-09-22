@@ -26,7 +26,6 @@ D:\ProyectInnovaSoft\GymEnCasa.App.Dominio\obj\Debug\netstandard2.0\GymEnCasa.Ap
 D:\ProyectInnovaSoft\GymEnCasa.App.Dominio\obj\Debug\netstandard2.0\GymEnCasa.App.Dominio.dll
 D:\ProyectInnovaSoft\GymEnCasa.App.Dominio\obj\Debug\netstandard2.0\GymEnCasa.App.Dominio.pdb
 <<<<<<< HEAD
-<<<<<<< HEAD
 C:\Users\Stefanny\Downloads\Gym\RepoGimnasio\GymEnCasa.App.Dominio\bin\Debug\netstandard2.0\GymEnCasa.App.Dominio.deps.json
 C:\Users\Stefanny\Downloads\Gym\RepoGimnasio\GymEnCasa.App.Dominio\bin\Debug\netstandard2.0\GymEnCasa.App.Dominio.dll
 C:\Users\Stefanny\Downloads\Gym\RepoGimnasio\GymEnCasa.App.Dominio\bin\Debug\netstandard2.0\GymEnCasa.App.Dominio.pdb
@@ -47,7 +46,6 @@ D:\ProyectInnovaSoft\RepoGimnasio\GymEnCasa.App.Dominio\obj\Debug\netstandard2.0
 D:\ProyectInnovaSoft\RepoGimnasio\GymEnCasa.App.Dominio\obj\Debug\netstandard2.0\GymEnCasa.App.Dominio.dll
 D:\ProyectInnovaSoft\RepoGimnasio\GymEnCasa.App.Dominio\obj\Debug\netstandard2.0\GymEnCasa.App.Dominio.pdb
 >>>>>>> b79a18d0068a27644ab31b075475a7c8dd926d63
-=======
 C:\Personal\MinTic\HomeFitV2\RepoGimnasio\GymEnCasa.App.Dominio\bin\Debug\netstandard2.0\GymEnCasa.App.Dominio.deps.json
 C:\Personal\MinTic\HomeFitV2\RepoGimnasio\GymEnCasa.App.Dominio\bin\Debug\netstandard2.0\GymEnCasa.App.Dominio.dll
 C:\Personal\MinTic\HomeFitV2\RepoGimnasio\GymEnCasa.App.Dominio\bin\Debug\netstandard2.0\GymEnCasa.App.Dominio.pdb
