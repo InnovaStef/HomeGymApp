@@ -7271,19 +7271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "D:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
-      "projectName": "GymEnCasa.App.Persistencia",
-      "projectPath": "D:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
-      "packagesPath": "C:\\Users\\ljcor\\.nuget\\packages\\",
-      "outputPath": "D:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Persistencia\\obj\\",
-=======
       "projectUniqueName": "C:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
       "projectName": "GymEnCasa.App.Persistencia",
       "projectPath": "C:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
       "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
       "outputPath": "C:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Persistencia\\obj\\",
->>>>>>> 5ed7e0c21dd5cbfd219cd1082365d0fff3f6b903
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -7297,13 +7289,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-<<<<<<< HEAD
-            "D:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
-              "projectPath": "D:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj"
-=======
             "C:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
               "projectPath": "C:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj"
->>>>>>> 5ed7e0c21dd5cbfd219cd1082365d0fff3f6b903
             }
           }
         }
@@ -7356,5 +7343,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Persistencia\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

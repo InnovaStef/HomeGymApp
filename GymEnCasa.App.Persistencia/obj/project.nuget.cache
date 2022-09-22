@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "Y58qz1JD5JeZ83Skf/Q6McRcsipraqNn6rRrtnQhu2CqXD7GsyGIR66qE5Qoph+jwqT6LFUvB0T++pDG5Xp8yg==",
-  "success": true,
-  "projectFilePath": "D:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
-=======
   "dgSpecHash": "aismYRW4kStqDcpa9NwwOwKosLjJksvTK7TZf/JnN3wgS+S7QonHvPFrUOMzo81Oe/nvL3CaUYTo8QXQ8JdLug==",
   "success": true,
   "projectFilePath": "C:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
->>>>>>> 5ed7e0c21dd5cbfd219cd1082365d0fff3f6b903
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -138,5 +132,12 @@
     "C:\\Users\\Administrador\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Persistencia\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
