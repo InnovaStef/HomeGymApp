@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {}
   },
   "projects": {
@@ -12,16 +13,27 @@
         "projectPath": "D:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\ljcor\\.nuget\\packages\\",
         "outputPath": "D:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Dominio\\obj\\",
+=======
+    "C:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {}
+  },
+  "projects": {
+    "C:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj",
+        "projectName": "GymEnCasa.App.Dominio",
+        "projectPath": "C:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Dominio\\obj\\",
+>>>>>>> 5ed7e0c21dd5cbfd219cd1082365d0fff3f6b903
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ljcor\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

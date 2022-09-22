@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Servicios\\GymEnCasa.App.Servicios.csproj",
+  "FilePath": "c:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Servicios\\GymEnCasa.App.Servicios.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,37 +14392,37 @@
   "RootNamespace": "GymEnCasa.App.Servicios",
   "Documents": [
     {
-      "FilePath": "d:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Servicios\\Pages\\Error.cshtml",
+      "FilePath": "c:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Servicios\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Servicios\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Servicios\\Pages\\Index.cshtml",
+      "FilePath": "c:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Servicios\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Servicios\\Pages\\_ViewStart.cshtml",
+      "FilePath": "c:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Servicios\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Servicios\\Pages\\Privacy.cshtml",
+      "FilePath": "c:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Servicios\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Servicios\\Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Servicios\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Servicios\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Servicios\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Servicios\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }

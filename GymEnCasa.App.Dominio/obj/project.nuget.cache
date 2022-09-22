@@ -1,12 +1,18 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "5SmJcT8nedZW46gIZv9gGVwQ5prhnDT5HD9O1LnSMu0PbRIUx4JLRKb/Jpx9nxVAefhd+ja77hG++rTJC1sv4w==",
   "success": true,
   "projectFilePath": "D:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj",
+=======
+  "dgSpecHash": "1wdV2mmEiQ0CQQb7vmtIt0zb4YEAM7kGJ/Qph5bnEwXIOufy9gMCq8sv7m7rSOX78ccLK72fbJQcOXGzSOKzCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Personal\\MinTic\\HomeFitV2\\RepoGimnasio\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj",
+>>>>>>> 5ed7e0c21dd5cbfd219cd1082365d0fff3f6b903
   "expectedPackageFiles": [
-    "C:\\Users\\ljcor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\ljcor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\ljcor\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
