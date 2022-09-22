@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9OxkCr/Zct8FaHxnaDH8uvgDhMf9LhzPmE8VQsUJFjVQ30s2Xi+8Vmz6JHbfuhJ0cIWy/vJzRjEY/J6bkDaZUw==",
+  "dgSpecHash": "jav4b6YKXhRDm/lRZP20Ozcwpnzc2ASjiucGGYYVRvutJaU9BR1mb3sA+biqHoh1HJ00JxOK90wUXuQGV+rezw==",
   "success": true,
-  "projectFilePath": "D:\\ProyectInnovaSoft\\gymencasa.app.presentacion\\GymEnCasa.App.Presentacion.csproj",
+  "projectFilePath": "D:\\ProyectInnovaSoft\\RepoGimnasio\\gymencasa.app.presentacion\\GymEnCasa.App.Presentacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ljcor\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ljcor\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",

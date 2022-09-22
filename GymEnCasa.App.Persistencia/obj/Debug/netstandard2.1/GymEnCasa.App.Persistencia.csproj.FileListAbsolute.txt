@@ -46,3 +46,15 @@ D:\ProyectInnovaSoft\GymEnCasa.App.Persistencia\obj\Debug\netstandard2.1\GymEnCa
 D:\ProyectInnovaSoft\GymEnCasa.App.Persistencia\obj\Debug\netstandard2.1\GymEnCasa.App.Persistencia.csproj.CopyComplete
 D:\ProyectInnovaSoft\GymEnCasa.App.Persistencia\obj\Debug\netstandard2.1\GymEnCasa.App.Persistencia.dll
 D:\ProyectInnovaSoft\GymEnCasa.App.Persistencia\obj\Debug\netstandard2.1\GymEnCasa.App.Persistencia.pdb
+D:\ProyectInnovaSoft\RepoGimnasio\GymEnCasa.App.Persistencia\bin\Debug\netstandard2.1\GymEnCasa.App.Persistencia.deps.json
+D:\ProyectInnovaSoft\RepoGimnasio\GymEnCasa.App.Persistencia\bin\Debug\netstandard2.1\GymEnCasa.App.Persistencia.dll
+D:\ProyectInnovaSoft\RepoGimnasio\GymEnCasa.App.Persistencia\bin\Debug\netstandard2.1\GymEnCasa.App.Persistencia.pdb
+D:\ProyectInnovaSoft\RepoGimnasio\GymEnCasa.App.Persistencia\bin\Debug\netstandard2.1\GymEnCasa.App.Dominio.dll
+D:\ProyectInnovaSoft\RepoGimnasio\GymEnCasa.App.Persistencia\bin\Debug\netstandard2.1\GymEnCasa.App.Dominio.pdb
+D:\ProyectInnovaSoft\RepoGimnasio\GymEnCasa.App.Persistencia\obj\Debug\netstandard2.1\GymEnCasa.App.Persistencia.csprojAssemblyReference.cache
+D:\ProyectInnovaSoft\RepoGimnasio\GymEnCasa.App.Persistencia\obj\Debug\netstandard2.1\GymEnCasa.App.Persistencia.AssemblyInfoInputs.cache
+D:\ProyectInnovaSoft\RepoGimnasio\GymEnCasa.App.Persistencia\obj\Debug\netstandard2.1\GymEnCasa.App.Persistencia.AssemblyInfo.cs
+D:\ProyectInnovaSoft\RepoGimnasio\GymEnCasa.App.Persistencia\obj\Debug\netstandard2.1\GymEnCasa.App.Persistencia.csproj.CoreCompileInputs.cache
+D:\ProyectInnovaSoft\RepoGimnasio\GymEnCasa.App.Persistencia\obj\Debug\netstandard2.1\GymEnCasa.App.Persistencia.csproj.CopyComplete
+D:\ProyectInnovaSoft\RepoGimnasio\GymEnCasa.App.Persistencia\obj\Debug\netstandard2.1\GymEnCasa.App.Persistencia.dll
+D:\ProyectInnovaSoft\RepoGimnasio\GymEnCasa.App.Persistencia\obj\Debug\netstandard2.1\GymEnCasa.App.Persistencia.pdb

@@ -7271,11 +7271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
+      "projectUniqueName": "D:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
       "projectName": "GymEnCasa.App.Persistencia",
-      "projectPath": "D:\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
+      "projectPath": "D:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
       "packagesPath": "C:\\Users\\ljcor\\.nuget\\packages\\",
-      "outputPath": "D:\\ProyectInnovaSoft\\GymEnCasa.App.Persistencia\\obj\\",
+      "outputPath": "D:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ljcor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7291,8 +7291,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "D:\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
-              "projectPath": "D:\\ProyectInnovaSoft\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj"
+            "D:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
+              "projectPath": "D:\\ProyectInnovaSoft\\RepoGimnasio\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj"
             }
           }
         }
