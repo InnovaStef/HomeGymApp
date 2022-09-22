@@ -25,3 +25,12 @@ D:\ProyectInnovaSoft\GymEnCasa.App.Dominio\obj\Debug\netstandard2.0\GymEnCasa.Ap
 D:\ProyectInnovaSoft\GymEnCasa.App.Dominio\obj\Debug\netstandard2.0\GymEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
 D:\ProyectInnovaSoft\GymEnCasa.App.Dominio\obj\Debug\netstandard2.0\GymEnCasa.App.Dominio.dll
 D:\ProyectInnovaSoft\GymEnCasa.App.Dominio\obj\Debug\netstandard2.0\GymEnCasa.App.Dominio.pdb
+C:\Personal\MinTic\HomeFitV2\RepoGimnasio\GymEnCasa.App.Dominio\bin\Debug\netstandard2.0\GymEnCasa.App.Dominio.deps.json
+C:\Personal\MinTic\HomeFitV2\RepoGimnasio\GymEnCasa.App.Dominio\bin\Debug\netstandard2.0\GymEnCasa.App.Dominio.dll
+C:\Personal\MinTic\HomeFitV2\RepoGimnasio\GymEnCasa.App.Dominio\bin\Debug\netstandard2.0\GymEnCasa.App.Dominio.pdb
+C:\Personal\MinTic\HomeFitV2\RepoGimnasio\GymEnCasa.App.Dominio\obj\Debug\netstandard2.0\GymEnCasa.App.Dominio.csprojAssemblyReference.cache
+C:\Personal\MinTic\HomeFitV2\RepoGimnasio\GymEnCasa.App.Dominio\obj\Debug\netstandard2.0\GymEnCasa.App.Dominio.AssemblyInfoInputs.cache
+C:\Personal\MinTic\HomeFitV2\RepoGimnasio\GymEnCasa.App.Dominio\obj\Debug\netstandard2.0\GymEnCasa.App.Dominio.AssemblyInfo.cs
+C:\Personal\MinTic\HomeFitV2\RepoGimnasio\GymEnCasa.App.Dominio\obj\Debug\netstandard2.0\GymEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Personal\MinTic\HomeFitV2\RepoGimnasio\GymEnCasa.App.Dominio\obj\Debug\netstandard2.0\GymEnCasa.App.Dominio.dll
+C:\Personal\MinTic\HomeFitV2\RepoGimnasio\GymEnCasa.App.Dominio\obj\Debug\netstandard2.0\GymEnCasa.App.Dominio.pdb
