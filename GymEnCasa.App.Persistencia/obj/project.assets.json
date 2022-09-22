@@ -7271,11 +7271,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stefanny\\Downloads\\Gym\\RepoGimnasio\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\Stefanny\\Downloads\\Gym\\repogimnasio\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
       "projectName": "GymEnCasa.App.Persistencia",
-      "projectPath": "C:\\Users\\Stefanny\\Downloads\\Gym\\RepoGimnasio\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
+      "projectPath": "C:\\Users\\Stefanny\\Downloads\\Gym\\repogimnasio\\GymEnCasa.App.Persistencia\\GymEnCasa.App.Persistencia.csproj",
       "packagesPath": "C:\\Users\\Stefanny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stefanny\\Downloads\\Gym\\RepoGimnasio\\GymEnCasa.App.Persistencia\\obj\\",
+      "outputPath": "C:\\Users\\Stefanny\\Downloads\\Gym\\repogimnasio\\GymEnCasa.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stefanny\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -7289,8 +7289,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\Stefanny\\Downloads\\Gym\\RepoGimnasio\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\Stefanny\\Downloads\\Gym\\RepoGimnasio\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj"
+            "C:\\Users\\Stefanny\\Downloads\\Gym\\repogimnasio\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\Stefanny\\Downloads\\Gym\\repogimnasio\\GymEnCasa.App.Dominio\\GymEnCasa.App.Dominio.csproj"
             }
           }
         }

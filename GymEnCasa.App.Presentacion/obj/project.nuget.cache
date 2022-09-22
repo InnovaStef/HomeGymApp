@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7ES/7cSuayvn7Pimg9VHTEbhDL5K73y0fESG9DSHoKMQcBirWJV0t9B8R5Swyl8F6vtZPZpdxV9989l8fRe7DA==",
+  "dgSpecHash": "pErXylpZWTq45bBvbFDzHlVJrVh93ZfqHPD3Vy5sHqyuWc9kHct9y1Ir64fsIm6nb+dUt2UmaN8m2wOzvh0hbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stefanny\\Downloads\\Gym\\RepoGimnasio\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj",
+  "projectFilePath": "C:\\Users\\Stefanny\\Downloads\\Gym\\repogimnasio\\GymEnCasa.App.Presentacion\\GymEnCasa.App.Presentacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stefanny\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Stefanny\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
@@ -219,5 +219,12 @@
     "C:\\Users\\Stefanny\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Stefanny\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Stefanny\\Downloads\\Gym\\repogimnasio\\GymEnCasa.App.Presentacion\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
