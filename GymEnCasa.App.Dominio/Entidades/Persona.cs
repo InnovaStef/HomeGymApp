@@ -5,22 +5,22 @@ namespace GymEnCasa.App.Dominio
 {
     public class Persona
     {
-        public int Id {get;set;}
+        public int Id {get; set;}
         
         [Required] // Hace que el nombre sea obligatorio/requerido
-        public string Nombre {get;set;}
+        public string Nombre {get; set;}
         
         [Required] // Hace que el campo Apellido sea obligatorio/requerido
-        public string Apellidos {get;set;}
+        public string Apellidos {get; set;}
 
         [Required] // Hace que el campo Telefono sea obligatorio/requerido
-        public string Telefono {get;set;}
+        public string Telefono {get; set;}
         
         [Required] // Hace que el campo sea obligatorio/requerido
-        public string Direccion {get;set;}
+        public string Direccion {get; set;}
 
         [Required] // Hace que el campo sea obligatorio/requerido
-        public DateTime FechaNacimiento {get;set;}
+        public DateTime FechaNacimiento {get; set;}
 
         [Required] // Hace que el campo sea obligatorio/requerido
         public float Peso {get;set;}
@@ -31,9 +31,6 @@ namespace GymEnCasa.App.Dominio
         [Required] // Hace que el campo sea obligatorio/requerido
         public Genero Genero {get;set;}
 
-         // Por ahora no es obligatorio el IMC
-         public float IMC {get;set;}
-        
         [Required] // Hace que el campo sea obligatorio/requerido
         public ObjetivoPersonal ObjetivoPersonal {get;set;}
     }

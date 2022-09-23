@@ -8,7 +8,8 @@ namespace GymEnCasa.App.Persistencia
         public DbSet<Persona> Personas {get;set;}
         public DbSet<Usuario> Usuarios {get;set;}
         public DbSet<PlanDeNutricion> PlanDeNutricion {get;set;}
-        public DbSet<PlanDeRutinas> PlanDeRutinas {get;set;}
+        public DbSet<Rutina> Rutinas {get;set;}
+        public DbSet<PlanPersonal> PlanPersonal {get;set;}
                 
         //TODO todos los Dbset con las entidades que van en base de datos
         //Los de tipo enum no van a base de datos

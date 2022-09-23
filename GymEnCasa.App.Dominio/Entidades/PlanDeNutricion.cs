@@ -3,18 +3,16 @@ using System.Collections.Generic;
 
 namespace GymEnCasa.App.Dominio
 {
-    public class PlanDeNutricion:Persona
+    public class PlanDeNutricion
     {
-        public DateTime Fecha {get;set;}
+        public int Id {get;set;}
         
-        public string FrecuenciaNutricion {get;set;}
+        public Nivel Nivel {get;set;}
 
-        public float CaloriasQuemadas {get;set;}
-
-        public float CaloriasAgregadas {get;set;}
-
-        public string EstadoDieta {get;set;}
+        public string Descripcion {get;set;}
 
         public Dieta Dieta {get;set;}
+
+        public string Image {get;set;}
     }
 }

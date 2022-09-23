@@ -73,7 +73,6 @@ namespace GymEnCasa.App.Persistencia
                 usuarioEncontrado.Peso = usuario.Peso;
                 usuarioEncontrado.Estatura = usuario.Estatura;
                 usuarioEncontrado.Genero = usuario.Genero;
-                usuarioEncontrado.IMC = usuario.IMC;
                 usuarioEncontrado.ObjetivoPersonal = usuario.ObjetivoPersonal;
                 usuarioEncontrado.Correo = usuario.Correo;
                 usuarioEncontrado.Contrasena = usuario.Contrasena;
